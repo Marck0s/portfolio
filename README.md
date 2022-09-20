@@ -6,7 +6,7 @@
 
 Portfólio de apresentação dos projetos já desenvolvidos. O mesmo se encontra 100% em inglês para melhor inclusão.
 
-[🔗Clique aqui para acessar](https://marck0s.github.io/portifolio)
+[🔗Clique aqui para acessar](https://marck0s.github.io/portfolio/)
 
 ## 💻 Tecnologias
 
