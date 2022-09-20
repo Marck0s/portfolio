@@ -2,7 +2,7 @@
 
 ![preview](./.github/face.png)
 
-> Portifólio
+> Portfólio
 
 Portifólio de apresentação dos projetos já desenvolvidos. O mesmo se encontra 100% em inglês para melhor inclusão.
 
