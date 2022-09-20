@@ -2,11 +2,11 @@
 
 ![preview](./.github/face.png)
 
-> Portifólio
+> Portfólio
 
-Portifólio de apresentação dos projetos já desenvolvidos. O mesmo se encontra 100% em inglês para melhor inclusão.
+Portfólio de apresentação dos projetos já desenvolvidos. O mesmo se encontra 100% em inglês para melhor inclusão.
 
-[🔗Clique aqui para acessar](https://marck0s.github.io/portifólio)
+[🔗Clique aqui para acessar](https://marck0s.github.io/portifolio)
 
 ## 💻 Tecnologias
 
